@@ -174,13 +174,15 @@ html>body td{ font-size:11px;}
 	 <th scope="col" abbr="operaton">操作</th>
     </tr> 
     <tr> 
-     <th scope="row" abbr="Model" class="spec">lipeng</th> 
-     <td>M9454LL/A</td> 
-     <td>M9455LL/A</td> 
-     <td>M9457LL/A</td> 
+     <td>1</td>
+     <td>1</td> 
+     <td>2</td> 
+     <td>3</td> 
+     <td>2</td> 
+     <td class="alt"><span>更新</span><span>删除</span></td> 
     </tr> 
     <tr> 
-     <th scope="row" abbr="G5 Processor" class="specalt">mapabc</th> 
+     <td>2</td>
      <td class="alt">Dual 1.8GHz PowerPC G5</td> 
      <td class="alt">Dual 2GHz PowerPC G5</td> 
      <td class="alt">Dual 2.5GHz PowerPC G5</td> 
@@ -188,16 +190,20 @@ html>body td{ font-size:11px;}
      <td class="alt"><span>更新</span><span>删除</span></td> 
     </tr> 
     <tr> 
-     <th scope="row" abbr="Frontside bus" class="spec">地图名片</th> 
+     <td>3</td>
      <td>900MHz per processor</td> 
      <td>1GHz per processor</td> 
      <td>1.25GHz per processor</td> 
+     <td>1.25GHz per processor</td> 
+     <td class="alt"><span>更新</span><span>删除</span></td> 
     </tr> 
     <tr> 
-     <th scope="row" abbr="L2 Cache" class="specalt">图秀卡</th> 
+     <td>4</td>
      <td class="alt">512K per processor</td> 
      <td class="alt">512K per processor</td> 
      <td class="alt">512K per processor</td> 
+     <td class="alt">512K per processor</td> 
+     <td class="alt"><span>更新</span><span>删除</span></td> 
     </tr> 
    </tbody>
   </table>  
